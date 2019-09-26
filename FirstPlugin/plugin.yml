@@ -1,0 +1,8 @@
+name: SpigotBlankPlugin
+main: com.byuminecraft.firstplugin.FirstPlugin
+version: 1.0
+api-version: 1.13
+commands:
+   GiveMePower:
+      description: POWER
+      usage: /{Give Me Power}
